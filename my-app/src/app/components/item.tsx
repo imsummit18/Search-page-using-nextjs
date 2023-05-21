@@ -1,7 +1,7 @@
 import Link from 'next/link'
 
 type Props = {
-    result: Result
+    result:any
 }
 
 export default function Item({ result }: Props) {
